@@ -1,0 +1,12 @@
+name: reykjanes-change-detection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - numpy
+  - rasterio
+  - geopandas
+  - matplotlib
+  - ipykernel
