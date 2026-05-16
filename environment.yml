@@ -10,3 +10,10 @@ dependencies:
   - geopandas
   - matplotlib
   - ipykernel
+  - xarray
+  - rioxarray
+  - pip
+    - pip:
+    - cmcrameri
+    - xarray
+    - rioxarray
