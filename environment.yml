@@ -6,14 +6,8 @@ dependencies:
   - python=3.11
   - jupyter
   - numpy
+  - pandas
   - rasterio
   - geopandas
   - matplotlib
-  - ipykernel
-  - xarray
-  - rioxarray
-  - pip
-    - pip:
-    - cmcrameri
-    - xarray
-    - rioxarray
+  - cmcrameri
