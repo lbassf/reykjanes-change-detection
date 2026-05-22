@@ -8,7 +8,7 @@
 // SPACE
 
 
-// Lahaina, Maui, Hawaii - 2023 Lahaina fire
+// Sundhnúkur eruption series on the Reykjanes Peninsula in Iceland from 2023 to 2024
 var aoi = ee.Geometry.Rectangle([-22.62, 63.8, -22.15, 63.95]);
 
 Map.setOptions('SATELLITE');
